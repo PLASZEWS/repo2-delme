@@ -7,3 +7,5 @@ testowe repo do kursu
 
 \-zmiana z brancha dev
 
+ -zmiana z brancha dev zdalnie
+
