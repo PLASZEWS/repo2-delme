@@ -3,6 +3,7 @@
 testowe repo do kursu
 
 \-zmiana lokalna
-\-zmiana na github.com
+-zmiana na github.com
 
+\-zmiana z brancha dev
 
