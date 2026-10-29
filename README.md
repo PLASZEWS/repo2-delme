@@ -3,6 +3,6 @@
 testowe repo do kursu
 
 \-zmiana lokalna
-
+ -zmiana na github.com
 
 
